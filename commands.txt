@@ -1,0 +1,15 @@
+pwd-->current working directory
+vi-->creating a new file or updating a file
+touch--> creste or update a file
+mkdir--> creation of new directory
+rm-->deleting the specific 
+ls-->listing all the directories
+echo-->outputs the result
+cat-->redirects to new file, view content of file, concatenate files
+who-->list the surrent user who is logged in to the system
+cd-->used to change from current directory to other directory
+date-->outputs the date
+cal-->outputs the calender
+mv-->rename or move the one file to other file in same directory
+cp-->copy contents of one file to other file in same directory
+which-->searches the path of executable in system path
